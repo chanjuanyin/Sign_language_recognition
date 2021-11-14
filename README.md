@@ -8,7 +8,7 @@ Module EE8101 Exploring DEEP in Innovation: Deep learning in image recognition (
 
 This is a project done for our NTU module EE8101 Exploring DEEP in Innovation. 
 
-Our group developed a sign-languageinterpretation model to recognise hand gestures and convert them into English words. 
+Our group developed a sign-language interpretation model to recognise hand gestures and convert them into English words. 
 
 ---
 
